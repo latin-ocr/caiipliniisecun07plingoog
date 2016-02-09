@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./caiipliniisecun07plingoog_0011.png"; bbox 0 0 2984 5009; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 860 1820 1948 1881">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 860 1820 1948 1881">
+     <span class='ocr_line' id='line_1_1' title="bbox 860 1820 1948 1881; baseline 0.005 -12"><span class='ocrx_word' id='word_1_1' title='bbox 860 1826 889 1877; x_wconf 73' lang='lat' dir='ltr'><em>t</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 984 1822 1401 1880; x_wconf 65' lang='lat' dir='ltr'><strong>.,.·tu·⁴1</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1513 1824 1535 1868; x_wconf 67' lang='grc' dir='ltr'><em>ί</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1758 1820 1948 1881; x_wconf 52' lang='grc' dir='ltr'><strong>,δὲ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 538 1992 2576 2229">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 538 1992 2576 2229">
+     <span class='ocr_line' id='line_1_2' title="bbox 780 1992 2371 2080; baseline 0.003 -18"><span class='ocrx_word' id='word_1_5' title='bbox 780 1992 1392 2067; x_wconf 78' lang='lat' dir='ltr'><strong>EXCUDEBAT</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1440 1995 1950 2066; x_wconf 84' lang='lat' dir='ltr'><strong>FIRMINUS</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1998 1996 2371 2080; x_wconf 89' lang='lat' dir='ltr'><strong>DIDOT‚</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 538 2138 2576 2229; baseline 0.001 -36"><span class='ocrx_word' id='word_1_8' title='bbox 538 2146 747 2194; x_wconf 72' lang='lat' dir='ltr'><strong>mzms</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 792 2146 881 2195; x_wconf 79' lang='lat' dir='ltr'><strong>m·</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 929 2146 1397 2198; x_wconf 58' lang='lat' dir='ltr'>emmanu</span> <span class='ocrx_word' id='word_1_11' title='bbox 1448 2138 2002 2225; x_wconf 54' lang='lat' dir='ltr'><strong>Ammzmnuma</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 2032 2142 2576 2229; x_wconf 64' lang='grc' dir='ltr'><strong>Τῐνᾳοιιυειυς.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
